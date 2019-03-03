@@ -1,3 +1,3 @@
 # Brent's Hashing Method Project
   
-<a target="_blank" href="https://furkankayar.github.io/Brent-sHashMethod">Documentation</a> 
+[Documentation](https://furkankayar.github.io/Brent-sHashMethod/?target=_blank)
